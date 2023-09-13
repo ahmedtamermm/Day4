@@ -1,0 +1,12 @@
+.movies_card{
+    max-width: 182px !important;
+    max-height:372px  !important;
+}
+.movies_card img{
+    width: 100% !important;
+    max-height: 273px !important;
+}
+.cardTitle{
+    font-weight: 700 !important;
+    font-size: 1vw !important;
+}
